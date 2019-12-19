@@ -1,19 +1,22 @@
 {
-    "name": "\u0418\u0440\u0435\u043d\u0430",
-    "short_name": "\u0418\u0440\u0435\u043d\u0430",
-    "icons": [
-        {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/android-chrome-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#00abc1",
-    "background_color": "#00abc1",
-    "display": "standalone"
+  "name": "VS ng-UI-Kit",
+  "short_name": "VS UI-Kit",
+  "description": "Showcase for libraries. Experience use-cases, howtos and best-practices with latest frontend technologies, network and security, engineering and low-code development with OutSystems.",
+  "icons": [
+    {
+      "src": "/assets/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#00abc1",
+  "background_color": "#00abc1",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "any"
 }
